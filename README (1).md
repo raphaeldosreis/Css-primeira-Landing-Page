@@ -16,19 +16,7 @@ O site apresenta uma estrutura completa com HTML e CSS puro, abordando os seguin
 - Botões estilizados com `border-image` e gradientes
 - Background fixo com efeito parallax
 
-##  Estrutura do Projeto
 
-```
-/imagens/
-├── banner.png
-├── dio-logo.png
-├── logo (1).png
-└── woman-code.png
-
-index.html
-```
-
-> Todas as imagens devem estar na pasta `imagens`.
 
 ##  Visualização
 
